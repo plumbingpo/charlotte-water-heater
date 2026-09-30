@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://charlottewaterheaternc.com/sitemap.xml
